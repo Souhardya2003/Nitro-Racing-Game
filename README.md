@@ -1,3 +1,3 @@
 # Nitro-Racing-Game
 
-Download the zip file and run the game.
+Download the zip file or exe file, install it and run the game.
