@@ -6,3 +6,4 @@ Download the zip file or the .exe file from the master branch.
 
 # More:
 Pygame module is used.
+Feel free to make any changes to make the game better.
