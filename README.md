@@ -14,4 +14,4 @@ All the logic in this game is created by using Python.
 1. Pygame module is used.
 2. The game run smoothly with no bugs or lag.
 3. One can easily increase or decrease speed of the the obstacles to make the game little difficult or easy. This game is simple and entertaining.
-5. Feel free to make any changes to make the game better.
+4. Feel free to make any changes to make the game better.
